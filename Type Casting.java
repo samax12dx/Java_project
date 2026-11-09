@@ -1,6 +1,6 @@
 class Main {
     public static void main(String[] args) {
-        System.out.println("Try clicking the Run button.");
+        
         int num1 =15;
         double num2 =  num1 ;
         System.out.println(num2);
