@@ -13,6 +13,7 @@ class Main {
             break;
             case 'D' : 
                 System.out.println ("pass");
+break;
             default :
 System.out.println ("Invalid");
         }
