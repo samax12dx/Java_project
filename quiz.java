@@ -9,7 +9,7 @@ class Main {
     System.out.println ("Your name is : " + name);
     System.out.println ("Your age is : " + age);
     System.out.println ("Your avg is : " + avg);
-    System.out.println ("Your litter is : " + grade);
+    System.out.println ("Your grade is : " + grade);
     System.out.println ("Are you Pass? " + pass);
     //She passed
     /* اولاً متغير الاسم
